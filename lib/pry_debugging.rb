@@ -1,5 +1,4 @@
 def plus_two(num)
-  total = #{num} + 2
-  puts total
+  #{num} + 2
 end
 plus_two("3")
